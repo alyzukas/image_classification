@@ -2,7 +2,6 @@
 Author: Alyssa Zukas <br>
 Date: 2025-11-05
 
-----
 
 ### How to open
 1. Click the **Open in Colab** badge below, or  
