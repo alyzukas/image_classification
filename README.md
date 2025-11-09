@@ -21,7 +21,7 @@ Since we will use labeled images of various bike categories to train a classifie
 1. Click the **Open in Colab** badge below, or  
 2. Download the `.ipynb` and open in Colab manually.
 
-[![Open In Colab](https://colab.research.google.com/drive/1XsKqzbFj9eyMXD0FSJzkqPlVqSbCiW9T#scrollTo=zHmIpxKTgY7U)
+[![Open In Colab](https://colab.research.google.com/drive/1XsKqzbFj9eyMXD0FSJzkqPlVqSbCiW9T#scrollTo=aPAzhFZZ3gz2)
 
 ---
 ## Project Structure
