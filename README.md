@@ -1,5 +1,5 @@
 # Image Classification Project
-Author: Alyssa Zukas
+Author: Alyssa Zukas <br>
 Date: 2025-11-05
 
 ----
