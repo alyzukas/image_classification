@@ -1,7 +1,9 @@
 # Image Classification Project
 Author: Alyssa Zukas
 Date: 2025-11-05
+
 ----
+
 ## Project Overview 
 
 - **Introduction:** The purpose of the assignment is to perform work using the FastAI library and transfer learning to train a deep neural network to perform image classification using a data set from Kaggle. 
