@@ -99,15 +99,15 @@ The dataset is available for commercial/research purposes under a [Creative Comm
 
 This project leverages a combination of Python libraries for data processing, visualization, and deep learning:
 
-- Kagglehub: For downloading datasets directly from Kaggle into Google Colab.
-- Json:  For parsing and processing structured data from JSON files.
-- Pandas:  For cleaning, merging, and manipulating tabular data.
-- Matplotlib.pyplot: For creating static visualizations and plotting model results.
-- Seaborn: For statistical data visualization and probability plots.
-- Os: For file and directory operations.
-- Requests: For retrieving and downloading image data from URLs.
-- Tqdm: For displaying progress bars during data download and preprocessing loops.
-- FastAI: For training and testing the model - mainly the vision_learner and Classification Interpretation features
+- **Kagglehub**: For downloading datasets directly from Kaggle into Google Colab.
+- **Json**:  For parsing and processing structured data from JSON files.
+- **Pandas**:  For cleaning, merging, and manipulating tabular data.
+- **Matplotlib.pyplot**: For creating static visualizations and plotting model results.
+- **Seaborn**: For statistical data visualization and probability plots.
+- **Os**: For file and directory operations.
+- **Requests**: For retrieving and downloading image data from URLs.
+- **Tqdm**: For displaying progress bars during data download and preprocessing loops.
+- **FastAI**: For training and testing the model - mainly the vision_learner and Classification Interpretation features
 
 
 ## Acknowledgements
