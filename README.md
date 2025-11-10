@@ -10,6 +10,8 @@ Date: 2025-11-05
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XsKqzbFj9eyMXD0FSJzkqPlVqSbCiW9T#scrollTo=g-Qcoom6f7ZE)
 
+Please view the offical Google Powerpoint Deck [here](https://docs.google.com/presentation/d/1Ftzd1qzBMiUxn6lP-fI9CnoDlOWj28Pl_XpmsOq2cbY/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0)
+
 ---
 
 
