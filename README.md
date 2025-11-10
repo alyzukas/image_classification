@@ -32,7 +32,7 @@ Since we will use labeled images of various bike categories to train a classifie
 
 ```
 ├── image_classification_template     # Google Colab Notebook and Python Scripts
-├── image_classification_report       # Generated reports and visualizations
+├── image_classification_presentation      # Generated reports and visualizations
 ├── requirements.txt                  # Dependencies
 └── README.md                         # Project documentation
 ```
