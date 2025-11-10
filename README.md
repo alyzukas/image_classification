@@ -57,28 +57,16 @@ Google Colab Notebook
 ---
 
 ## Results 
-Some of the images used above are tough bikes to catagorize, even for a human being who knows a lot about bikes.
-I knew that teaching a modle to classify riding styles of a bike based off a set of visual variables would be hard - but I am actually surprised at what the model was able to output.
-<br>
-<br>
-For example:
+Some of the images used to test the model are tough bikes to catagorize, even for a human being who knows a lot about bikes.
+I knew that teaching a model to classify riding styles of a bike based off a set of visual variables would be hard - but I am actually surprised at what the model was able to output.
 
-- In Image 1, it is a fair analysis that the model put this as both cross_country and trail... because this is a popular bike used for both cross country and trail riding!
+Overall, there are a lot of characteristics that go into defining the "riding style" of a bike.... and as you can tell... the way a bike is marketed is not always the riding style that it is mostly used for.
 
-- In Image 2, altough this bike is marketed as an enduro bike, many riders actually do use this as a dirt_jumper... so again, the models display was actually not "inaccurate", and I am very impressed that it was able to pick up on this.
-
-- In Image 3, the model shows higher confidence in trail riding style.. and this is accurate! The modle displaying some efforts towards the other catagories makes sense - as the bikes fork (front suspension) is usually used for enduro bikes. This tells me that the model was able to pick up on these idfferences while still taking the other details into consideration.
-
-- In Image 4, this image used is of a very new bike in the market. So new that only professional riders get access to it as of now. The model predicted this as an enduro bike, and although that is not how this bike is marketed as, many of the prefessional riders assigned to test-riding this bike are saying that it rides more like an enduro bike.
-
-Overall, there are a lot of characteristics that go into the "riding style" of a bike.... and as you can tell... the way a bike is marketed is not always the riding style that it is mostly used for.
+Things like geometry, wheel size, suspension, etc. all make a difference in the way the bike rides, and many riders purchase a bike marketed towards one type of riding style, yet use it for a completely different one. 
 <br>
 <br>
-Things like geometry, wheel size, suspension, etc. all makr a difference in the way the bike rides, thus a lot of bike companies are tending to interchange these features to make hybrid-like bikes. I guess you can call this a marketing tactic.
-<br>
-<br>
-Based off of the outputs, I do see how the model is classifying these bikes and I believe it did a fantastic job a analyzing these features to predict the riding style of the bike in each image!
-Expanding this analysis further by analyzing this across multiple years allows us to pick up any potential trends. 
+Based off the outputs, I do see how the model is classifying these bikes and I believe it did a fantastic job a analyzing these features to predict the riding style of the bike in each image, even if the "bike type" was not labeled the same!
+
 
 
 ---
