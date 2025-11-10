@@ -2,16 +2,6 @@
 Author: Alyssa Zukas <br>
 Date: 2025-11-05
 
-
-### How to open
-1. Click the **Open in Colab** badge below, or  
-2. Download the `.ipynb` and open in Colab manually.
-
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XsKqzbFj9eyMXD0FSJzkqPlVqSbCiW9T#scrollTo=g-Qcoom6f7ZE)
-
-Please view the offical Google Powerpoint Deck [here](https://docs.google.com/presentation/d/1Ftzd1qzBMiUxn6lP-fI9CnoDlOWj28Pl_XpmsOq2cbY/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0)
-
 ---
 
 
@@ -25,7 +15,17 @@ Please view the offical Google Powerpoint Deck [here](https://docs.google.com/pr
 Since we will use labeled images of various bike categories to train a classifier how to predict bike types... we will be taking a predictive approach throughout this analysis.
 
 - ### Main Source of Analysis
-  - `image_classification_template.ipynb` – main Colab notebook
+  - `bike_classification_analysis.ipynb` – main Colab notebook
+
+ 
+### How to open
+1. Click the **Open in Colab** badge below, or  
+2. Download the `.ipynb` and open in Colab manually.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XsKqzbFj9eyMXD0FSJzkqPlVqSbCiW9T#scrollTo=g-Qcoom6f7ZE)
+
+Please view the offical Google Powerpoint Deck [here](https://docs.google.com/presentation/d/1Ftzd1qzBMiUxn6lP-fI9CnoDlOWj28Pl_XpmsOq2cbY/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0).
 
 ---
 ## Project Structure
