@@ -91,7 +91,7 @@ Expanding this analysis further by analyzing this across multiple years allows u
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The dataset is available for commercial/research purposes under a [Creative Commons Corporation - CC0 1.0 Universal License](https://www.google.com/url?q=https%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F). 
 
 ---
 
